@@ -1,0 +1,6 @@
+{
+	"/api/": ["http://localhost:9001", "http://localhost:9002", "http://localhost:9003", "http://localhost:9004"],
+	"/auth/": ["http://localhost:9005", "http://localhost:9006"],
+	"/api/users": ["http://localhost:8001", "http://localhost:8002"],
+  	"/api/posts": ["http://localhost:8003", "http://localhost:8004"]
+}
